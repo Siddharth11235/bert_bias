@@ -32,19 +32,20 @@ def init_model(model_type,to_lower):
 	return model,tokenizer
 
 
-def get_sentences():
-	sentence = input("Type in sentence: ")
-	return sentence
+def get_sentences(filename):
+	sentences = []
+
+	# open file and read the content in a list
+	with open(filename, 'r') as filehandle:
+		sentences = [sentence.rstrip() for sentence in filehandle.readlines()]
+
+	return sentences
 	
 
 def get_mask(length):
-	mask_index = 0
-	while(True):
-		print("Enter mask index value in range 0 -",length-1)
-		masked_index = int(input())
-		if (masked_index < length and masked_index >= 0):
-			break
-	return masked_index
+	mask_index = length -1
+		
+	return mask_index
 
 def task(model, tokenizer, top_k, threshold, sent):
 	tokenized_text = tokenizer.tokenize(sent)
@@ -66,7 +67,7 @@ def task(model, tokenizer, top_k, threshold, sent):
 		print(dstr)
 		masked_index = get_mask(len(tokenized_text))
 
-	tokenized_text[masked_index] = "[MASK]"
+	tokenized_text[masked_index] = "<mask>"
 	indexed_tokens[masked_index] = 50
 	print(tokenized_text)
 	print(masked_index)
@@ -86,12 +87,14 @@ def task(model, tokenizer, top_k, threshold, sent):
 	k = 0
 	sorted_dict = OrderedDict(sorted(results_dict.items(), key=lambda kv: kv[1], reverse=True))
 	prob_list = np.exp(list(sorted_dict.values()))/sum(np.exp(list(sorted_dict.values())))
-	
-	for i in sorted_dict:
-		print(i,prob_list[k])
-		k += 1
-		if (k > top_k):
-			break
+	with open('log.txt', "a+") as filehandle:
+		filehandle.writelines('\n{}\n'.format(sent)) 
+		for i in sorted_dict:
+			filehandle.writelines('{} {}\n'.format(i, prob_list[k])) 
+			#print(i,prob_list[k])
+			k += 1
+			if (k > top_k):
+				break
 	
 if __name__ == '__main__':
 	parser = argparse.ArgumentParser()
@@ -99,8 +102,8 @@ if __name__ == '__main__':
     
 	args = parser.parse_args()
 	model,tokenizer = init_model(args.model, True)
-	while (True):
-		text = get_sentences()
-		task(model,tokenizer,20, 2, text)
+	sent_list = get_sentences("sentlist.txt")
+	for text in sent_list:
+		task(model,tokenizer,10, 1, text)
 
 	   
