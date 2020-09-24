@@ -43,7 +43,7 @@ def get_sentences(filename):
 	
 
 def get_mask(length):
-	mask_index = length -1
+	mask_index = 1
 		
 	return mask_index
 
@@ -104,6 +104,6 @@ if __name__ == '__main__':
 	model,tokenizer = init_model(args.model, True)
 	sent_list = get_sentences("sentlist.txt")
 	for text in sent_list:
-		task(model,tokenizer,10, 1, text)
+		task(model,tokenizer,20, 1, text)
 
 	   
