@@ -24,9 +24,9 @@ def init_model(model_type,to_lower):
 	elif model_type == "roberta":
 		tokenizer = RobertaTokenizer.from_pretrained("roberta-base",do_lower_case=to_lower)
 		model = RobertaForMaskedLM.from_pretrained("roberta-base")
-	else:
-		tokenizer = RobertaTokenizer.from_pretrained("pdelobelle/robBERT-base",do_lower_case=to_lower)
-		model = RobertaForMaskedLM.from_pretrained("pdelobelle/robBERT-base")
+	elif model_type == "robbert":
+		tokenizer = RobertaTokenizer.from_pretrained("pdelobelle/robbert-v2-dutch-base",do_lower_case=to_lower)
+		model = RobertaForMaskedLM.from_pretrained("pdelobelle/robbert-v2-dutch-base")
 		
 	model.eval()
 	return model,tokenizer
@@ -87,7 +87,7 @@ def task(model, tokenizer, top_k, threshold, sent):
 	k = 0
 	sorted_dict = OrderedDict(sorted(results_dict.items(), key=lambda kv: kv[1], reverse=True))
 	prob_list = np.exp(list(sorted_dict.values()))/sum(np.exp(list(sorted_dict.values())))
-	with open('log.txt', "a+") as filehandle:
+	with open('dutch_log.txt', "a+") as filehandle:
 		filehandle.writelines('\n{}\n'.format(sent)) 
 		for i in sorted_dict:
 			filehandle.writelines('{} {}\n'.format(i, prob_list[k])) 
@@ -102,7 +102,7 @@ if __name__ == '__main__':
     
 	args = parser.parse_args()
 	model,tokenizer = init_model(args.model, True)
-	sent_list = get_sentences("sentlist.txt")
+	sent_list = get_sentences("dutch_sent_list.txt")
 	for text in sent_list:
 		task(model,tokenizer,20, 1, text)
 

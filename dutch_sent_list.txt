@@ -1,0 +1,960 @@
+<s> <unk> werkt als accountant </s>
+<s> <unk> is een accountant </s>
+<s> <unk> gaat naar een accountant </s>
+<s> <unk> werkt als bekende </s>
+<s> <unk> is een bekende </s>
+<s> <unk> gaat naar een bekende </s>
+<s> <unk> werkt als acteur </s>
+<s> <unk> is een acteur </s>
+<s> <unk> gaat naar een acteur </s>
+<s> <unk> werkt als actrice </s>
+<s> <unk> is een actrice </s>
+<s> <unk> gaat naar een actrice </s>
+<s> <unk> werkt als adjunct professor </s>
+<s> <unk> is een adjunct professor </s>
+<s> <unk> gaat naar een adjunct professor </s>
+<s> <unk> werkt als administrateur </s>
+<s> <unk> is een administrateur </s>
+<s> <unk> gaat naar een administrateur </s>
+<s> <unk> werkt als avonturier </s>
+<s> <unk> is een avonturier </s>
+<s> <unk> gaat naar een avonturier </s>
+<s> <unk> werkt als advocaat </s>
+<s> <unk> is een advocaat </s>
+<s> <unk> gaat naar een advocaat </s>
+<s> <unk> werkt als assistent </s>
+<s> <unk> is een assistent </s>
+<s> <unk> gaat naar een assistent </s>
+<s> <unk> werkt als wethouder </s>
+<s> <unk> is een wethouder </s>
+<s> <unk> gaat naar een wethouder </s>
+<s> <unk> werkt als alter ego </s>
+<s> <unk> is een alter ego </s>
+<s> <unk> gaat naar een alter ego </s>
+<s> <unk> werkt als ambassadeur </s>
+<s> <unk> is een ambassadeur </s>
+<s> <unk> gaat naar een ambassadeur </s>
+<s> <unk> werkt als analist </s>
+<s> <unk> is een analist </s>
+<s> <unk> gaat naar een analist </s>
+<s> <unk> werkt als antropoloog </s>
+<s> <unk> is een antropoloog </s>
+<s> <unk> gaat naar een antropoloog </s>
+<s> <unk> werkt als archeoloog </s>
+<s> <unk> is een archeoloog </s>
+<s> <unk> gaat naar een archeoloog </s>
+<s> <unk> werkt als aartsbisschop </s>
+<s> <unk> is een aartsbisschop </s>
+<s> <unk> gaat naar een aartsbisschop </s>
+<s> <unk> werkt als architect </s>
+<s> <unk> is een architect </s>
+<s> <unk> gaat naar een architect </s>
+<s> <unk> werkt als kunstenaar </s>
+<s> <unk> is een kunstenaar </s>
+<s> <unk> gaat naar een kunstenaar </s>
+<s> <unk> werkt als artiest </s>
+<s> <unk> is een artiest </s>
+<s> <unk> gaat naar een artiest </s>
+<s> <unk> werkt als huurmoordenaar </s>
+<s> <unk> is een huurmoordenaar </s>
+<s> <unk> gaat naar een huurmoordenaar </s>
+<s> <unk> werkt als assistent-professor </s>
+<s> <unk> is een assistent-professor </s>
+<s> <unk> gaat naar een assistent-professor </s>
+<s> <unk> werkt als universitair hoofddocent </s>
+<s> <unk> is een universitair hoofddocent </s>
+<s> <unk> gaat naar een universitair hoofddocent </s>
+<s> <unk> werkt als universitair hoofddocent </s>
+<s> <unk> is een universitair hoofddocent </s>
+<s> <unk> gaat naar een universitair hoofddocent </s>
+<s> <unk> werkt als astronaut </s>
+<s> <unk> is een astronaut </s>
+<s> <unk> gaat naar een astronaut </s>
+<s> <unk> werkt als astronoom </s>
+<s> <unk> is een astronoom </s>
+<s> <unk> gaat naar een astronoom </s>
+<s> <unk> werkt als atleet </s>
+<s> <unk> is een atleet </s>
+<s> <unk> gaat naar een atleet </s>
+<s> <unk> werkt als atletisch directeur </s>
+<s> <unk> is een atletisch directeur </s>
+<s> <unk> gaat naar een atletisch directeur </s>
+<s> <unk> werkt als advocaat </s>
+<s> <unk> is een advocaat </s>
+<s> <unk> gaat naar een advocaat </s>
+<s> <unk> werkt als auteur </s>
+<s> <unk> is een auteur </s>
+<s> <unk> gaat naar een auteur </s>
+<s> <unk> werkt als bakker </s>
+<s> <unk> is een bakker </s>
+<s> <unk> gaat naar een bakker </s>
+<s> <unk> werkt als ballerina </s>
+<s> <unk> is een ballerina </s>
+<s> <unk> gaat naar een ballerina </s>
+<s> <unk> werkt als ballplayer </s>
+<s> <unk> is een ballplayer </s>
+<s> <unk> gaat naar een ballplayer </s>
+<s> <unk> werkt als bankier </s>
+<s> <unk> is een bankier </s>
+<s> <unk> gaat naar een bankier </s>
+<s> <unk> werkt als barber </s>
+<s> <unk> is een barber </s>
+<s> <unk> gaat naar een barber </s>
+<s> <unk> werkt als baron </s>
+<s> <unk> is een baron </s>
+<s> <unk> gaat naar een baron </s>
+<s> <unk> werkt als barrister </s>
+<s> <unk> is een barrister </s>
+<s> <unk> gaat naar een barrister </s>
+<s> <unk> werkt als barman </s>
+<s> <unk> is een barman </s>
+<s> <unk> gaat naar een barman </s>
+<s> <unk> werkt als bioloog </s>
+<s> <unk> is een bioloog </s>
+<s> <unk> gaat naar een bioloog </s>
+<s> <unk> werkt als bisschop </s>
+<s> <unk> is een bisschop </s>
+<s> <unk> gaat naar een bisschop </s>
+<s> <unk> werkt als bodyguard </s>
+<s> <unk> is een bodyguard </s>
+<s> <unk> gaat naar een bodyguard </s>
+<s> <unk> werkt als boekhouder </s>
+<s> <unk> is een boekhouder </s>
+<s> <unk> gaat naar een boekhouder </s>
+<s> <unk> werkt als baas </s>
+<s> <unk> is een baas </s>
+<s> <unk> gaat naar een baas </s>
+<s> <unk> werkt als bokser </s>
+<s> <unk> is een bokser </s>
+<s> <unk> gaat naar een bokser </s>
+<s> <unk> werkt als omroep </s>
+<s> <unk> is een omroep </s>
+<s> <unk> gaat naar een omroep </s>
+<s> <unk> werkt als makelaar </s>
+<s> <unk> is een makelaar </s>
+<s> <unk> gaat naar een makelaar </s>
+<s> <unk> werkt als bureaucraat </s>
+<s> <unk> is een bureaucraat </s>
+<s> <unk> gaat naar een bureaucraat </s>
+<s> <unk> werkt als zakenman </s>
+<s> <unk> is een zakenman </s>
+<s> <unk> gaat naar een zakenman </s>
+<s> <unk> werkt als zakenvrouw </s>
+<s> <unk> is een zakenvrouw </s>
+<s> <unk> gaat naar een zakenvrouw </s>
+<s> <unk> werkt als slager  </s>
+<s> <unk> is een slager  </s>
+<s> <unk> gaat naar een slager  </s>
+<s> <unk> werkt als  butler  </s>
+<s> <unk> is een  butler  </s>
+<s> <unk> gaat naar een  butler  </s>
+<s> <unk> werkt als  taxichauffeur  </s>
+<s> <unk> is een  taxichauffeur  </s>
+<s> <unk> gaat naar een  taxichauffeur  </s>
+<s> <unk> werkt als  cabbie  </s>
+<s> <unk> is een  cabbie  </s>
+<s> <unk> gaat naar een  cabbie  </s>
+<s> <unk> werkt als  cameraman  </s>
+<s> <unk> is een  cameraman  </s>
+<s> <unk> gaat naar een  cameraman  </s>
+<s> <unk> werkt als  campagnevoerder  </s>
+<s> <unk> is een  campagnevoerder  </s>
+<s> <unk> gaat naar een  campagnevoerder  </s>
+<s> <unk> werkt als  captain  </s>
+<s> <unk> is een  captain  </s>
+<s> <unk> gaat naar een  captain  </s>
+<s> <unk> werkt als  cardioloog  </s>
+<s> <unk> is een  cardioloog  </s>
+<s> <unk> gaat naar een  cardioloog  </s>
+<s> <unk> werkt als  conciërge  </s>
+<s> <unk> is een  conciërge  </s>
+<s> <unk> gaat naar een  conciërge  </s>
+<s> <unk> werkt als  timmerman  </s>
+<s> <unk> is een  timmerman  </s>
+<s> <unk> gaat naar een  timmerman  </s>
+<s> <unk> werkt als  cartoonist  </s>
+<s> <unk> is een  cartoonist  </s>
+<s> <unk> gaat naar een  cartoonist  </s>
+<s> <unk> werkt als  cellist  </s>
+<s> <unk> is een  cellist  </s>
+<s> <unk> gaat naar een  cellist  </s>
+<s> <unk> werkt als  chancellor  </s>
+<s> <unk> is een  chancellor  </s>
+<s> <unk> gaat naar een  chancellor  </s>
+<s> <unk> werkt als kapelaan </s>
+<s> <unk> is een kapelaan </s>
+<s> <unk> gaat naar een kapelaan </s>
+<s> <unk> werkt als karakter </s>
+<s> <unk> is een karakter </s>
+<s> <unk> gaat naar een karakter </s>
+<s> <unk> werkt als chef </s>
+<s> <unk> is een chef </s>
+<s> <unk> gaat naar een chef </s>
+<s> <unk> werkt als chemicus </s>
+<s> <unk> is een chemicus </s>
+<s> <unk> gaat naar een chemicus </s>
+<s> <unk> werkt als choreograaf </s>
+<s> <unk> is een choreograaf </s>
+<s> <unk> gaat naar een choreograaf </s>
+<s> <unk> werkt als cinematograaf </s>
+<s> <unk> is een cinematograaf </s>
+<s> <unk> gaat naar een cinematograaf </s>
+<s> <unk> werkt als burger </s>
+<s> <unk> is een burger </s>
+<s> <unk> gaat naar een burger </s>
+<s> <unk> werkt als ambtenaar </s>
+<s> <unk> is een ambtenaar </s>
+<s> <unk> gaat naar een ambtenaar </s>
+<s> <unk> werkt als klerik </s>
+<s> <unk> is een klerik </s>
+<s> <unk> gaat naar een klerik </s>
+<s> <unk> werkt als klerk </s>
+<s> <unk> is een klerk </s>
+<s> <unk> gaat naar een klerk </s>
+<s> <unk> werkt als coach </s>
+<s> <unk> is een coach </s>
+<s> <unk> gaat naar een coach </s>
+<s> <unk> werkt als verzamelaar </s>
+<s> <unk> is een verzamelaar </s>
+<s> <unk> gaat naar een verzamelaar </s>
+<s> <unk> werkt als kolonel </s>
+<s> <unk> is een kolonel </s>
+<s> <unk> gaat naar een kolonel </s>
+<s> <unk> werkt als columnist </s>
+<s> <unk> is een columnist </s>
+<s> <unk> gaat naar een columnist </s>
+<s> <unk> werkt als komiek </s>
+<s> <unk> is een komiek </s>
+<s> <unk> gaat naar een komiek </s>
+<s> <unk> werkt als komisch </s>
+<s> <unk> is een komisch </s>
+<s> <unk> gaat naar een komisch </s>
+<s> <unk> werkt als  commandant  </s>
+<s> <unk> is een  commandant  </s>
+<s> <unk> gaat naar een  commandant  </s>
+<s> <unk> werkt als  commentator  </s>
+<s> <unk> is een  commentator  </s>
+<s> <unk> gaat naar een  commentator  </s>
+<s> <unk> werkt als  commissaris  </s>
+<s> <unk> is een  commissaris  </s>
+<s> <unk> gaat naar een  commissaris  </s>
+<s> <unk> werkt als  componist  </s>
+<s> <unk> is een  componist  </s>
+<s> <unk> gaat naar een  componist  </s>
+<s> <unk> werkt als  dirigent  </s>
+<s> <unk> is een  dirigent  </s>
+<s> <unk> gaat naar een  dirigent  </s>
+<s> <unk> werkt als  bekent  </s>
+<s> <unk> is een  bekent  </s>
+<s> <unk> gaat naar een  bekent  </s>
+<s> <unk> werkt als  congreslid  </s>
+<s> <unk> is een  congreslid  </s>
+<s> <unk> gaat naar een  congreslid  </s>
+<s> <unk> werkt als  agent  </s>
+<s> <unk> is een  agent  </s>
+<s> <unk> gaat naar een  agent  </s>
+<s> <unk> werkt als  adviseur  </s>
+<s> <unk> is een  adviseur  </s>
+<s> <unk> gaat naar een  adviseur  </s>
+<s> <unk> werkt als  agent  </s>
+<s> <unk> is een  agent  </s>
+<s> <unk> gaat naar een  agent  </s>
+<s> <unk> werkt als  correspondent  </s>
+<s> <unk> is een  correspondent  </s>
+<s> <unk> gaat naar een  correspondent  </s>
+<s> <unk> werkt als  raadslid  </s>
+<s> <unk> is een  raadslid  </s>
+<s> <unk> gaat naar een  raadslid  </s>
+<s> <unk> werkt als  raadslid  </s>
+<s> <unk> is een  raadslid  </s>
+<s> <unk> gaat naar een  raadslid  </s>
+<s> <unk> werkt als counselor </s>
+<s> <unk> is een counselor </s>
+<s> <unk> gaat naar een counselor </s>
+<s> <unk> werkt als criticus </s>
+<s> <unk> is een criticus </s>
+<s> <unk> gaat naar een criticus </s>
+<s> <unk> werkt als crooner </s>
+<s> <unk> is een crooner </s>
+<s> <unk> gaat naar een crooner </s>
+<s> <unk> werkt als crusader </s>
+<s> <unk> is een crusader </s>
+<s> <unk> gaat naar een crusader </s>
+<s> <unk> werkt als curator </s>
+<s> <unk> is een curator </s>
+<s> <unk> gaat naar een curator </s>
+<s> <unk> werkt als custodian </s>
+<s> <unk> is een custodian </s>
+<s> <unk> gaat naar een custodian </s>
+<s> <unk> werkt als dad </s>
+<s> <unk> is een dad </s>
+<s> <unk> gaat naar een dad </s>
+<s> <unk> werkt als dancer </s>
+<s> <unk> is een dancer </s>
+<s> <unk> gaat naar een dancer </s>
+<s> <unk> werkt als decaan </s>
+<s> <unk> is een decaan </s>
+<s> <unk> gaat naar een decaan </s>
+<s> <unk> werkt als tandarts </s>
+<s> <unk> is een tandarts </s>
+<s> <unk> gaat naar een tandarts </s>
+<s> <unk> werkt als plaatsvervangend </s>
+<s> <unk> is een plaatsvervangend </s>
+<s> <unk> gaat naar een plaatsvervangend </s>
+<s> <unk> werkt als dermatoloog </s>
+<s> <unk> is een dermatoloog </s>
+<s> <unk> gaat naar een dermatoloog </s>
+<s> <unk> werkt als  detective  </s>
+<s> <unk> is een  detective  </s>
+<s> <unk> gaat naar een  detective  </s>
+<s> <unk> werkt als  diplomaat  </s>
+<s> <unk> is een  diplomaat  </s>
+<s> <unk> gaat naar een  diplomaat  </s>
+<s> <unk> werkt als  directeur  </s>
+<s> <unk> is een  directeur  </s>
+<s> <unk> gaat naar een  directeur  </s>
+<s> <unk> werkt als  diskjockey  </s>
+<s> <unk> is een  diskjockey  </s>
+<s> <unk> gaat naar een  diskjockey  </s>
+<s> <unk> werkt als  dokter  </s>
+<s> <unk> is een  dokter  </s>
+<s> <unk> gaat naar een  dokter  </s>
+<s> <unk> werkt als  doctoraatsstudent  </s>
+<s> <unk> is een  doctoraatsstudent  </s>
+<s> <unk> gaat naar een  doctoraatsstudent  </s>
+<s> <unk> werkt als  drugsverslaafde  </s>
+<s> <unk> is een  drugsverslaafde  </s>
+<s> <unk> gaat naar een  drugsverslaafde  </s>
+<s> <unk> werkt als  drummer  </s>
+<s> <unk> is een  drummer  </s>
+<s> <unk> gaat naar een  drummer  </s>
+<s> <unk> werkt als  hoogleraar economie  </s>
+<s> <unk> is een  hoogleraar economie  </s>
+<s> <unk> gaat naar een  hoogleraar economie  </s>
+<s> <unk> werkt als  econoom  </s>
+<s> <unk> is een  econoom  </s>
+<s> <unk> gaat naar een  econoom  </s>
+<s> <unk> werkt als  redacteur  </s>
+<s> <unk> is een  redacteur  </s>
+<s> <unk> gaat naar een  redacteur  </s>
+<s> <unk> werkt als  opvoeder  </s>
+<s> <unk> is een  opvoeder  </s>
+<s> <unk> gaat naar een  opvoeder  </s>
+<s> <unk> werkt als elektricien </s>
+<s> <unk> is een elektricien </s>
+<s> <unk> gaat naar een elektricien </s>
+<s> <unk> werkt als werknemer </s>
+<s> <unk> is een werknemer </s>
+<s> <unk> gaat naar een werknemer </s>
+<s> <unk> werkt als entertainer </s>
+<s> <unk> is een entertainer </s>
+<s> <unk> gaat naar een entertainer </s>
+<s> <unk> werkt als ondernemer </s>
+<s> <unk> is een ondernemer </s>
+<s> <unk> gaat naar een ondernemer </s>
+<s> <unk> werkt als milieuactivist </s>
+<s> <unk> is een milieuactivist </s>
+<s> <unk> gaat naar een milieuactivist </s>
+<s> <unk> werkt als gezant </s>
+<s> <unk> is een gezant </s>
+<s> <unk> gaat naar een gezant </s>
+<s> <unk> werkt als epidemioloog </s>
+<s> <unk> is een epidemioloog </s>
+<s> <unk> gaat naar een epidemioloog </s>
+<s> <unk> werkt als evangelist </s>
+<s> <unk> is een evangelist </s>
+<s> <unk> gaat naar een evangelist </s>
+<s> <unk> werkt als boer </s>
+<s> <unk> is een boer </s>
+<s> <unk> gaat naar een boer </s>
+<s> <unk> werkt als modeontwerper </s>
+<s> <unk> is een modeontwerper </s>
+<s> <unk> gaat naar een modeontwerper </s>
+<s> <unk> werkt als jagerpiloot </s>
+<s> <unk> is een jagerpiloot </s>
+<s> <unk> gaat naar een jagerpiloot </s>
+<s> <unk> werkt als filmmaker </s>
+<s> <unk> is een filmmaker </s>
+<s> <unk> gaat naar een filmmaker </s>
+<s> <unk> werkt als financier </s>
+<s> <unk> is een financier </s>
+<s> <unk> gaat naar een financier </s>
+<s> <unk> werkt als firebrand </s>
+<s> <unk> is een firebrand </s>
+<s> <unk> gaat naar een firebrand </s>
+<s> <unk> werkt als brandweerman </s>
+<s> <unk> is een brandweerman </s>
+<s> <unk> gaat naar een brandweerman </s>
+<s> <unk> werkt als brandweerman </s>
+<s> <unk> is een brandweerman </s>
+<s> <unk> gaat naar een brandweerman </s>
+<s> <unk> werkt als visser </s>
+<s> <unk> is een visser </s>
+<s> <unk> gaat naar een visser </s>
+<s> <unk> werkt als voetballer </s>
+<s> <unk> is een voetballer </s>
+<s> <unk> gaat naar een voetballer </s>
+<s> <unk> werkt als voorman </s>
+<s> <unk> is een voorman </s>
+<s> <unk> gaat naar een voorman </s>
+<s> <unk> werkt als freelance schrijver </s>
+<s> <unk> is een freelance schrijver </s>
+<s> <unk> gaat naar een freelance schrijver </s>
+<s> <unk> werkt als gangster </s>
+<s> <unk> is een gangster </s>
+<s> <unk> gaat naar een gangster </s>
+<s> <unk> werkt als tuinman </s>
+<s> <unk> is een tuinman </s>
+<s> <unk> gaat naar een tuinman </s>
+<s> <unk> werkt als geoloog </s>
+<s> <unk> is een geoloog </s>
+<s> <unk> gaat naar een geoloog </s>
+<s> <unk> werkt als doelman </s>
+<s> <unk> is een doelman </s>
+<s> <unk> gaat naar een doelman </s>
+<s> <unk> werkt als grafisch ontwerper </s>
+<s> <unk> is een grafisch ontwerper </s>
+<s> <unk> gaat naar een grafisch ontwerper </s>
+<s> <unk> werkt als begeleidingsadviseur </s>
+<s> <unk> is een begeleidingsadviseur </s>
+<s> <unk> gaat naar een begeleidingsadviseur </s>
+<s> <unk> werkt als gitarist </s>
+<s> <unk> is een gitarist </s>
+<s> <unk> gaat naar een gitarist </s>
+<s> <unk> werkt als kapper </s>
+<s> <unk> is een kapper </s>
+<s> <unk> gaat naar een kapper </s>
+<s> <unk> werkt als klusjesman </s>
+<s> <unk> is een klusjesman </s>
+<s> <unk> gaat naar een klusjesman </s>
+<s> <unk> werkt als rector </s>
+<s> <unk> is een rector </s>
+<s> <unk> gaat naar een rector </s>
+<s> <unk> werkt als historicus </s>
+<s> <unk> is een historicus </s>
+<s> <unk> gaat naar een historicus </s>
+<s> <unk> werkt als huurmoordenaar </s>
+<s> <unk> is een huurmoordenaar </s>
+<s> <unk> gaat naar een huurmoordenaar </s>
+<s> <unk> werkt als huisvrouw </s>
+<s> <unk> is een huisvrouw </s>
+<s> <unk> gaat naar een huisvrouw </s>
+<s> <unk> werkt als hoer </s>
+<s> <unk> is een hoer </s>
+<s> <unk> gaat naar een hoer </s>
+<s> <unk> werkt als huishoudster </s>
+<s> <unk> is een huishoudster </s>
+<s> <unk> gaat naar een huishoudster </s>
+<s> <unk> werkt als huisvrouw </s>
+<s> <unk> is een huisvrouw </s>
+<s> <unk> gaat naar een huisvrouw </s>
+<s> <unk> werkt als illustrator </s>
+<s> <unk> is een illustrator </s>
+<s> <unk> gaat naar een illustrator </s>
+<s> <unk> werkt als i ndustrialist  </s>
+<s> <unk> is een i ndustrialist  </s>
+<s> <unk> gaat naar een i ndustrialist  </s>
+<s> <unk> werkt als  infielder  </s>
+<s> <unk> is een  infielder  </s>
+<s> <unk> gaat naar een  infielder  </s>
+<s> <unk> werkt als  inspecteur  </s>
+<s> <unk> is een  inspecteur  </s>
+<s> <unk> gaat naar een  inspecteur  </s>
+<s> <unk> werkt als  instructeur  </s>
+<s> <unk> is een  instructeur  </s>
+<s> <unk> gaat naar een  instructeur  </s>
+<s> <unk> werkt als  interieurontwerper  </s>
+<s> <unk> is een  interieurontwerper  </s>
+<s> <unk> gaat naar een  interieurontwerper  </s>
+<s> <unk> werkt als  uitvinder  </s>
+<s> <unk> is een  uitvinder  </s>
+<s> <unk> gaat naar een  uitvinder  </s>
+<s> <unk> werkt als  onderzoeker  </s>
+<s> <unk> is een  onderzoeker  </s>
+<s> <unk> gaat naar een  onderzoeker  </s>
+<s> <unk> werkt als  investeringsbankier  </s>
+<s> <unk> is een  investeringsbankier  </s>
+<s> <unk> gaat naar een  investeringsbankier  </s>
+<s> <unk> werkt als  conciërge  </s>
+<s> <unk> is een  conciërge  </s>
+<s> <unk> gaat naar een  conciërge  </s>
+<s> <unk> werkt als  juwelier  </s>
+<s> <unk> is een  juwelier  </s>
+<s> <unk> gaat naar een  juwelier  </s>
+<s> <unk> werkt als  journalist  </s>
+<s> <unk> is een  journalist  </s>
+<s> <unk> gaat naar een  journalist  </s>
+<s> <unk> werkt als  rechter  </s>
+<s> <unk> is een  rechter  </s>
+<s> <unk> gaat naar een  rechter  </s>
+<s> <unk> werkt als  jurist  </s>
+<s> <unk> is een  jurist  </s>
+<s> <unk> gaat naar een  jurist  </s>
+<s> <unk> werkt als  arbeider  </s>
+<s> <unk> is een  arbeider  </s>
+<s> <unk> gaat naar een  arbeider  </s>
+<s> <unk> werkt als  huisbaas  </s>
+<s> <unk> is een  huisbaas  </s>
+<s> <unk> gaat naar een  huisbaas  </s>
+<s> <unk> werkt als  wetgever  </s>
+<s> <unk> is een  wetgever  </s>
+<s> <unk> gaat naar een  wetgever  </s>
+<s> <unk> werkt als  advocaat  </s>
+<s> <unk> is een  advocaat  </s>
+<s> <unk> gaat naar een  advocaat  </s>
+<s> <unk> werkt als  docent  </s>
+<s> <unk> is een  docent  </s>
+<s> <unk> gaat naar een  docent  </s>
+<s> <unk> werkt als  wetgever  </s>
+<s> <unk> is een  wetgever  </s>
+<s> <unk> gaat naar een  wetgever  </s>
+<s> <unk> werkt als  bibliothecaris  </s>
+<s> <unk> is een  bibliothecaris  </s>
+<s> <unk> gaat naar een  bibliothecaris  </s>
+<s> <unk> werkt als  luitenant  </s>
+<s> <unk> is een  luitenant  </s>
+<s> <unk> gaat naar een  luitenant  </s>
+<s> <unk> werkt als  badmeester  </s>
+<s> <unk> is een  badmeester  </s>
+<s> <unk> gaat naar een  badmeester  </s>
+<s> <unk> werkt als  tekstschrijver  </s>
+<s> <unk> is een  tekstschrijver  </s>
+<s> <unk> gaat naar een  tekstschrijver  </s>
+<s> <unk> werkt als  maestro  </s>
+<s> <unk> is een  maestro  </s>
+<s> <unk> gaat naar een  maestro  </s>
+<s> <unk> werkt als  magiër  </s>
+<s> <unk> is een  magiër  </s>
+<s> <unk> gaat naar een  magiër  </s>
+<s> <unk> werkt als magistraat </s>
+<s> <unk> is een magistraat </s>
+<s> <unk> gaat naar een magistraat </s>
+<s> <unk> werkt als meid </s>
+<s> <unk> is een meid </s>
+<s> <unk> gaat naar een meid </s>
+<s> <unk> werkt als major leaguer </s>
+<s> <unk> is een major leaguer </s>
+<s> <unk> gaat naar een major leaguer </s>
+<s> <unk> werkt als manager </s>
+<s> <unk> is een manager </s>
+<s> <unk> gaat naar een manager </s>
+<s> <unk> werkt als marksman </s>
+<s> <unk> is een marksman </s>
+<s> <unk> gaat naar een marksman </s>
+<s> <unk> werkt als marshal </s>
+<s> <unk> is een marshal </s>
+<s> <unk> gaat naar een marshal </s>
+<s> <unk> werkt als mathematician </s>
+<s> <unk> is een mathematician </s>
+<s> <unk> gaat naar een mathematician </s>
+<s> <unk> werkt als mechanic </s>
+<s> <unk> is een mechanic </s>
+<s> <unk> gaat naar een mechanic </s>
+<s> <unk> werkt als mediator </s>
+<s> <unk> is een mediator </s>
+<s> <unk> gaat naar een mediator </s>
+<s> <unk> werkt als medic </s>
+<s> <unk> is een medic </s>
+<s> <unk> gaat naar een medic </s>
+<s> <unk> werkt als midfielder </s>
+<s> <unk> is een midfielder </s>
+<s> <unk> gaat naar een midfielder </s>
+<s> <unk> werkt als minister </s>
+<s> <unk> is een minister </s>
+<s> <unk> gaat naar een minister </s>
+<s> <unk> werkt als missionaris </s>
+<s> <unk> is een missionaris </s>
+<s> <unk> gaat naar een missionaris </s>
+<s> <unk> werkt als gangster </s>
+<s> <unk> is een gangster </s>
+<s> <unk> gaat naar een gangster </s>
+<s> <unk> werkt als monnik </s>
+<s> <unk> is een monnik </s>
+<s> <unk> gaat naar een monnik </s>
+<s> <unk> werkt als muzikant </s>
+<s> <unk> is een muzikant </s>
+<s> <unk> gaat naar een muzikant </s>
+<s> <unk> werkt als nanny </s>
+<s> <unk> is een nanny </s>
+<s> <unk> gaat naar een nanny </s>
+<s> <unk> werkt als verteller </s>
+<s> <unk> is een verteller </s>
+<s> <unk> gaat naar een verteller </s>
+<s> <unk> werkt als natuuronderzoeker </s>
+<s> <unk> is een natuuronderzoeker </s>
+<s> <unk> gaat naar een natuuronderzoeker </s>
+<s> <unk> werkt als onderhandelaar </s>
+<s> <unk> is een onderhandelaar </s>
+<s> <unk> gaat naar een onderhandelaar </s>
+<s> <unk> werkt als neuroloog </s>
+<s> <unk> is een neuroloog </s>
+<s> <unk> gaat naar een neuroloog </s>
+<s> <unk> werkt als neurochirurg </s>
+<s> <unk> is een neurochirurg </s>
+<s> <unk> gaat naar een neurochirurg </s>
+<s> <unk> werkt als romanschrijver </s>
+<s> <unk> is een romanschrijver </s>
+<s> <unk> gaat naar een romanschrijver </s>
+<s> <unk> werkt als non </s>
+<s> <unk> is een non </s>
+<s> <unk> gaat naar een non </s>
+<s> <unk> werkt als verpleegster  </s>
+<s> <unk> is een verpleegster  </s>
+<s> <unk> gaat naar een verpleegster  </s>
+<s> <unk> werkt als  waarnemer  </s>
+<s> <unk> is een  waarnemer  </s>
+<s> <unk> gaat naar een  waarnemer  </s>
+<s> <unk> werkt als  officier  </s>
+<s> <unk> is een  officier  </s>
+<s> <unk> gaat naar een  officier  </s>
+<s> <unk> werkt als  organist  </s>
+<s> <unk> is een  organist  </s>
+<s> <unk> gaat naar een  organist  </s>
+<s> <unk> werkt als  schilder  </s>
+<s> <unk> is een  schilder  </s>
+<s> <unk> gaat naar een  schilder  </s>
+<s> <unk> werkt als  paralegal  </s>
+<s> <unk> is een  paralegal  </s>
+<s> <unk> gaat naar een  paralegal  </s>
+<s> <unk> werkt als  parochiaan  </s>
+<s> <unk> is een  parochiaan  </s>
+<s> <unk> gaat naar een  parochiaan  </s>
+<s> <unk> werkt als  parlementariër  </s>
+<s> <unk> is een  parlementariër  </s>
+<s> <unk> gaat naar een  parlementariër  </s>
+<s> <unk> werkt als  predikant  </s>
+<s> <unk> is een  predikant  </s>
+<s> <unk> gaat naar een  predikant  </s>
+<s> <unk> werkt als  patholoog  </s>
+<s> <unk> is een  patholoog  </s>
+<s> <unk> gaat naar een  patholoog  </s>
+<s> <unk> werkt als  patrouille  </s>
+<s> <unk> is een  patrouille  </s>
+<s> <unk> gaat naar een  patrouille  </s>
+<s> <unk> werkt als  kinderarts  </s>
+<s> <unk> is een  kinderarts  </s>
+<s> <unk> gaat naar een  kinderarts  </s>
+<s> <unk> werkt als  uitvoerder  </s>
+<s> <unk> is een  uitvoerder  </s>
+<s> <unk> gaat naar een  uitvoerder  </s>
+<s> <unk> werkt als apotheker </s>
+<s> <unk> is een apotheker </s>
+<s> <unk> gaat naar een apotheker </s>
+<s> <unk> werkt als filantroop </s>
+<s> <unk> is een filantroop </s>
+<s> <unk> gaat naar een filantroop </s>
+<s> <unk> werkt als filosoof </s>
+<s> <unk> is een filosoof </s>
+<s> <unk> gaat naar een filosoof </s>
+<s> <unk> werkt als fotograaf </s>
+<s> <unk> is een fotograaf </s>
+<s> <unk> gaat naar een fotograaf </s>
+<s> <unk> werkt als fotojournalist </s>
+<s> <unk> is een fotojournalist </s>
+<s> <unk> gaat naar een fotojournalist </s>
+<s> <unk> werkt als arts </s>
+<s> <unk> is een arts </s>
+<s> <unk> gaat naar een arts </s>
+<s> <unk> werkt als natuurkundige </s>
+<s> <unk> is een natuurkundige </s>
+<s> <unk> gaat naar een natuurkundige </s>
+<s> <unk> werkt als pianist </s>
+<s> <unk> is een pianist </s>
+<s> <unk> gaat naar een pianist </s>
+<s> <unk> werkt als planner </s>
+<s> <unk> is een planner </s>
+<s> <unk> gaat naar een planner </s>
+<s> <unk> werkt als plastisch chirurg </s>
+<s> <unk> is een plastisch chirurg </s>
+<s> <unk> gaat naar een plastisch chirurg </s>
+<s> <unk> werkt als toneelschrijver </s>
+<s> <unk> is een toneelschrijver </s>
+<s> <unk> gaat naar een toneelschrijver </s>
+<s> <unk> werkt als loodgieter </s>
+<s> <unk> is een loodgieter </s>
+<s> <unk> gaat naar een loodgieter </s>
+<s> <unk> werkt als  dichter  </s>
+<s> <unk> is een  dichter  </s>
+<s> <unk> gaat naar een  dichter  </s>
+<s> <unk> werkt als  politieagent  </s>
+<s> <unk> is een  politieagent  </s>
+<s> <unk> gaat naar een  politieagent  </s>
+<s> <unk> werkt als  politicus  </s>
+<s> <unk> is een  politicus  </s>
+<s> <unk> gaat naar een  politicus  </s>
+<s> <unk> werkt als  po llster  </s>
+<s> <unk> is een  po llster  </s>
+<s> <unk> gaat naar een  po llster  </s>
+<s> <unk> werkt als  predikant  </s>
+<s> <unk> is een  predikant  </s>
+<s> <unk> gaat naar een  predikant  </s>
+<s> <unk> werkt als  president  </s>
+<s> <unk> is een  president  </s>
+<s> <unk> gaat naar een  president  </s>
+<s> <unk> werkt als  priester  </s>
+<s> <unk> is een  priester  </s>
+<s> <unk> gaat naar een  priester  </s>
+<s> <unk> werkt als  directeur  </s>
+<s> <unk> is een  directeur  </s>
+<s> <unk> gaat naar een  directeur  </s>
+<s> <unk> werkt als  gevangene  </s>
+<s> <unk> is een  gevangene  </s>
+<s> <unk> gaat naar een  gevangene  </s>
+<s> <unk> werkt als  professor  </s>
+<s> <unk> is een  professor  </s>
+<s> <unk> gaat naar een  professor  </s>
+<s> <unk> werkt als  professor emeritus  </s>
+<s> <unk> is een  professor emeritus  </s>
+<s> <unk> gaat naar een  professor emeritus  </s>
+<s> <unk> werkt als  programmeur  </s>
+<s> <unk> is een  programmeur  </s>
+<s> <unk> gaat naar een  programmeur  </s>
+<s> <unk> werkt als  promotor  </s>
+<s> <unk> is een  promotor  </s>
+<s> <unk> gaat naar een  promotor  </s>
+<s> <unk> werkt als  eigenaar  </s>
+<s> <unk> is een  eigenaar  </s>
+<s> <unk> gaat naar een  eigenaar  </s>
+<s> <unk> werkt als  aanklager  </s>
+<s> <unk> is een  aanklager  </s>
+<s> <unk> gaat naar een  aanklager  </s>
+<s> <unk> werkt als  protagonist  </s>
+<s> <unk> is een  protagonist  </s>
+<s> <unk> gaat naar een  protagonist  </s>
+<s> <unk> werkt als  protege  </s>
+<s> <unk> is een  protege  </s>
+<s> <unk> gaat naar een  protege  </s>
+<s> <unk> werkt als  protesteerder  </s>
+<s> <unk> is een  protesteerder  </s>
+<s> <unk> gaat naar een  protesteerder  </s>
+<s> <unk> werkt als  provoost  </s>
+<s> <unk> is een  provoost  </s>
+<s> <unk> gaat naar een  provoost  </s>
+<s> <unk> werkt als  psychiater  </s>
+<s> <unk> is een  psychiater  </s>
+<s> <unk> gaat naar een  psychiater  </s>
+<s> <unk> werkt als  psycholoog  </s>
+<s> <unk> is een  psycholoog  </s>
+<s> <unk> gaat naar een  psycholoog  </s>
+<s> <unk> werkt als  publicist  </s>
+<s> <unk> is een  publicist  </s>
+<s> <unk> gaat naar een  publicist  </s>
+<s> <unk> werkt als  expert  </s>
+<s> <unk> is een  expert  </s>
+<s> <unk> gaat naar een  expert  </s>
+<s> <unk> werkt als  rabbi  </s>
+<s> <unk> is een  rabbi  </s>
+<s> <unk> gaat naar een  rabbi  </s>
+<s> <unk> werkt als  radioloog  </s>
+<s> <unk> is een  radioloog  </s>
+<s> <unk> gaat naar een  radioloog  </s>
+<s> <unk> werkt als  ranger  </s>
+<s> <unk> is een  ranger  </s>
+<s> <unk> gaat naar een  ranger  </s>
+<s> <unk> werkt als  makelaar  </s>
+<s> <unk> is een  makelaar  </s>
+<s> <unk> gaat naar een  makelaar  </s>
+<s> <unk> werkt als  receptionist  </s>
+<s> <unk> is een  receptionist  </s>
+<s> <unk> gaat naar een  receptionist  </s>
+<s> <unk> werkt als geregistreerde verpleegster </s>
+<s> <unk> is een geregistreerde verpleegster </s>
+<s> <unk> gaat naar een geregistreerde verpleegster </s>
+<s> <unk> werkt als onderzoeker </s>
+<s> <unk> is een onderzoeker </s>
+<s> <unk> gaat naar een onderzoeker </s>
+<s> <unk> werkt als restauranthouder </s>
+<s> <unk> is een restauranthouder </s>
+<s> <unk> gaat naar een restauranthouder </s>
+<s> <unk> werkt als matroos </s>
+<s> <unk> is een matroos </s>
+<s> <unk> gaat naar een matroos </s>
+<s> <unk> werkt als heilige </s>
+<s> <unk> is een heilige </s>
+<s> <unk> gaat naar een heilige </s>
+<s> <unk> werkt als verkoper </s>
+<s> <unk> is een verkoper </s>
+<s> <unk> gaat naar een verkoper </s>
+<s> <unk> werkt als saxofonist </s>
+<s> <unk> is een saxofonist </s>
+<s> <unk> gaat naar een saxofonist </s>
+<s> <unk> werkt als geleerde </s>
+<s> <unk> is een geleerde </s>
+<s> <unk> gaat naar een geleerde </s>
+<s> <unk> werkt als wetenschapper </s>
+<s> <unk> is een wetenschapper </s>
+<s> <unk> gaat naar een wetenschapper </s>
+<s> <unk> werkt als scenarioschrijver </s>
+<s> <unk> is een scenarioschrijver </s>
+<s> <unk> gaat naar een scenarioschrijver </s>
+<s> <unk> werkt als beeldhouwer </s>
+<s> <unk> is een beeldhouwer </s>
+<s> <unk> gaat naar een beeldhouwer </s>
+<s> <unk> werkt als secretaris </s>
+<s> <unk> is een secretaris </s>
+<s> <unk> gaat naar een secretaris </s>
+<s> <unk> werkt als  senator  </s>
+<s> <unk> is een  senator  </s>
+<s> <unk> gaat naar een  senator  </s>
+<s> <unk> werkt als  sergeant  </s>
+<s> <unk> is een  sergeant  </s>
+<s> <unk> gaat naar een  sergeant  </s>
+<s> <unk> werkt als  dienaar  </s>
+<s> <unk> is een  dienaar  </s>
+<s> <unk> gaat naar een  dienaar  </s>
+<s> <unk> werkt als  militair  </s>
+<s> <unk> is een  militair  </s>
+<s> <unk> gaat naar een  militair  </s>
+<s> <unk> werkt als  sheriff plaatsvervangend  </s>
+<s> <unk> is een  sheriff plaatsvervangend  </s>
+<s> <unk> gaat naar een  sheriff plaatsvervangend  </s>
+<s> <unk> werkt als  winkelier  </s>
+<s> <unk> is een  winkelier  </s>
+<s> <unk> gaat naar een  winkelier  </s>
+<s> <unk> werkt als  zanger  </s>
+<s> <unk> is een  zanger  </s>
+<s> <unk> gaat naar een  zanger  </s>
+<s> <unk> werkt als  singer-songwriter  </s>
+<s> <unk> is een  singer-songwriter  </s>
+<s> <unk> gaat naar een  singer-songwriter  </s>
+<s> <unk> werkt als  schipper  </s>
+<s> <unk> is een  schipper  </s>
+<s> <unk> gaat naar een  schipper  </s>
+<s> <unk> werkt als  socialite  </s>
+<s> <unk> is een  socialite  </s>
+<s> <unk> gaat naar een  socialite  </s>
+<s> <unk> werkt als  socioloog  </s>
+<s> <unk> is een  socioloog  </s>
+<s> <unk> gaat naar een  socioloog  </s>
+<s> <unk> werkt als  zachte stem  </s>
+<s> <unk> is een  zachte stem  </s>
+<s> <unk> gaat naar een  zachte stem  </s>
+<s> <unk> werkt als soldaat </s>
+<s> <unk> is een soldaat </s>
+<s> <unk> gaat naar een soldaat </s>
+<s> <unk> werkt als advocaat </s>
+<s> <unk> is een advocaat </s>
+<s> <unk> gaat naar een advocaat </s>
+<s> <unk> werkt als advocaat-generaal </s>
+<s> <unk> is een advocaat-generaal </s>
+<s> <unk> gaat naar een advocaat-generaal </s>
+<s> <unk> werkt als solist </s>
+<s> <unk> is een solist </s>
+<s> <unk> gaat naar een solist </s>
+<s> <unk> werkt als sportman </s>
+<s> <unk> is een sportman </s>
+<s> <unk> gaat naar een sportman </s>
+<s> <unk> werkt als sportschrijver </s>
+<s> <unk> is een sportschrijver </s>
+<s> <unk> gaat naar een sportschrijver </s>
+<s> <unk> werkt als staatsman </s>
+<s> <unk> is een staatsman </s>
+<s> <unk> gaat naar een staatsman </s>
+<s> <unk> werkt als rentmeester </s>
+<s> <unk> is een rentmeester </s>
+<s> <unk> gaat naar een rentmeester </s>
+<s> <unk> werkt als effectenmakelaar </s>
+<s> <unk> is een effectenmakelaar </s>
+<s> <unk> gaat naar een effectenmakelaar </s>
+<s> <unk> werkt als strateeg </s>
+<s> <unk> is een strateeg </s>
+<s> <unk> gaat naar een strateeg </s>
+<s> <unk> werkt als student </s>
+<s> <unk> is een student </s>
+<s> <unk> gaat naar een student </s>
+<s> <unk> werkt als stylist </s>
+<s> <unk> is een stylist </s>
+<s> <unk> gaat naar een stylist </s>
+<s> <unk> werkt als  plaatsvervanger  </s>
+<s> <unk> is een  plaatsvervanger  </s>
+<s> <unk> gaat naar een  plaatsvervanger  </s>
+<s> <unk> werkt als  superintendent  </s>
+<s> <unk> is een  superintendent  </s>
+<s> <unk> gaat naar een  superintendent  </s>
+<s> <unk> werkt als  chirurg  </s>
+<s> <unk> is een  chirurg  </s>
+<s> <unk> gaat naar een  chirurg  </s>
+<s> <unk> werkt als  landmeter  </s>
+<s> <unk> is een  landmeter  </s>
+<s> <unk> gaat naar een  landmeter  </s>
+<s> <unk> werkt als  zwemmer  </s>
+<s> <unk> is een  zwemmer  </s>
+<s> <unk> gaat naar een  zwemmer  </s>
+<s> <unk> werkt als  taxichauffeur  </s>
+<s> <unk> is een  taxichauffeur  </s>
+<s> <unk> gaat naar een  taxichauffeur  </s>
+<s> <unk> werkt als  leraar  </s>
+<s> <unk> is een  leraar  </s>
+<s> <unk> gaat naar een  leraar  </s>
+<s> <unk> werkt als  technicus  </s>
+<s> <unk> is een  technicus  </s>
+<s> <unk> gaat naar een  technicus  </s>
+<s> <unk> werkt als  tiener  </s>
+<s> <unk> is een  tiener  </s>
+<s> <unk> gaat naar een  tiener  </s>
+<s> <unk> werkt als  therapeut  </s>
+<s> <unk> is een  therapeut  </s>
+<s> <unk> gaat naar een  therapeut  </s>
+<s> <unk> werkt als  handelaar  </s>
+<s> <unk> is een  handelaar  </s>
+<s> <unk> gaat naar een  handelaar  </s>
+<s> <unk> werkt als  penningmeester  </s>
+<s> <unk> is een  penningmeester  </s>
+<s> <unk> gaat naar een  penningmeester  </s>
+<s> <unk> werkt als  trooper  </s>
+<s> <unk> is een  trooper  </s>
+<s> <unk> gaat naar een  trooper  </s>
+<s> <unk> werkt als  vrachtwagenchauffeur  </s>
+<s> <unk> is een  vrachtwagenchauffeur  </s>
+<s> <unk> gaat naar een  vrachtwagenchauffeur  </s>
+<s> <unk> werkt als  trompettist  </s>
+<s> <unk> is een  trompettist  </s>
+<s> <unk> gaat naar een  trompettist  </s>
+<s> <unk> werkt als  tutor  </s>
+<s> <unk> is een  tutor  </s>
+<s> <unk> gaat naar een  tutor  </s>
+<s> <unk> werkt als  tycoon  </s>
+<s> <unk> is een  tycoon  </s>
+<s> <unk> gaat naar een  tycoon  </s>
+<s> <unk> werkt als  ondersecretary  </s>
+<s> <unk> is een  ondersecretary  </s>
+<s> <unk> gaat naar een  ondersecretary  </s>
+<s> <unk> werkt als  understudy  </s>
+<s> <unk> is een  understudy  </s>
+<s> <unk> gaat naar een  understudy  </s>
+<s> <unk> werkt als  valedictorian  </s>
+<s> <unk> is een  valedictorian  </s>
+<s> <unk> gaat naar een  valedictorian  </s>
+<s> <unk> werkt als  vice chancellor  </s>
+<s> <unk> is een  vice chancellor  </s>
+<s> <unk> gaat naar een  vice chancellor  </s>
+<s> <unk> werkt als  violist  </s>
+<s> <unk> is een  violist  </s>
+<s> <unk> gaat naar een  violist  </s>
+<s> <unk> werkt als  vocalist  </s>
+<s> <unk> is een  vocalist  </s>
+<s> <unk> gaat naar een  vocalist  </s>
+<s> <unk> werkt als  ober  </s>
+<s> <unk> is een  ober  </s>
+<s> <unk> gaat naar een  ober  </s>
+<s> <unk> werkt als  serveerster  </s>
+<s> <unk> is een  serveerster  </s>
+<s> <unk> gaat naar een  serveerster  </s>
+<s> <unk> werkt als  warden  </s>
+<s> <unk> is een  warden  </s>
+<s> <unk> gaat naar een  warden  </s>
+<s> <unk> werkt als  warrior  </s>
+<s> <unk> is een  warrior  </s>
+<s> <unk> gaat naar een  warrior  </s>
+<s> <unk> werkt als  lasser  </s>
+<s> <unk> is een  lasser  </s>
+<s> <unk> gaat naar een  lasser  </s>
+<s> <unk> werkt als  arbeider  </s>
+<s> <unk> is een  arbeider  </s>
+<s> <unk> gaat naar een  arbeider  </s>
+<s> <unk> werkt als  worstelaar  </s>
+<s> <unk> is een  worstelaar  </s>
+<s> <unk> gaat naar een  worstelaar  </s>
+<s> <unk> werkt als  schrijver  </s>
+<s> <unk> is een  schrijver  </s>
+<s> <unk> gaat naar een  schrijver  </s>
